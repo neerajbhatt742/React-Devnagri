@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "//React-Devnagri/static/css/main.aa6be76f.css",
-    "main.js": "//React-Devnagri/static/js/main.0de6c664.js",
-    "static/js/787.79e0dee7.chunk.js": "//React-Devnagri/static/js/787.79e0dee7.chunk.js",
-    "static/media/chandrashilla.jpg": "//React-Devnagri/static/media/chandrashilla.28c03f7fe702ef0443e5.jpg",
-    "index.html": "//React-Devnagri/index.html",
-    "main.aa6be76f.css.map": "//React-Devnagri/static/css/main.aa6be76f.css.map",
-    "main.0de6c664.js.map": "//React-Devnagri/static/js/main.0de6c664.js.map",
-    "787.79e0dee7.chunk.js.map": "//React-Devnagri/static/js/787.79e0dee7.chunk.js.map"
+    "main.css": "/React-Devnagri/static/css/main.722718c4.css",
+    "main.js": "/React-Devnagri/static/js/main.f99b552a.js",
+    "static/js/787.79e0dee7.chunk.js": "/React-Devnagri/static/js/787.79e0dee7.chunk.js",
+    "static/media/chandrashilla.jpg": "/React-Devnagri/static/media/chandrashilla.28c03f7fe702ef0443e5.jpg",
+    "index.html": "/React-Devnagri/index.html",
+    "main.722718c4.css.map": "/React-Devnagri/static/css/main.722718c4.css.map",
+    "main.f99b552a.js.map": "/React-Devnagri/static/js/main.f99b552a.js.map",
+    "787.79e0dee7.chunk.js.map": "/React-Devnagri/static/js/787.79e0dee7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.aa6be76f.css",
-    "static/js/main.0de6c664.js"
+    "static/css/main.722718c4.css",
+    "static/js/main.f99b552a.js"
   ]
 }
